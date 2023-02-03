@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.6546107d.css",
-    "main.js": "/my-portfolio/static/js/main.2362b8b7.js",
-    "static/media/me-about.jpg": "/my-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/me.png": "/my-portfolio/static/media/me.b10c99cf28376a9e34f2.png",
-    "static/media/portfolio5.png": "/my-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/cv.pdf": "/my-portfolio/static/media/cv.3f2559613c14ae633132.pdf",
-    "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/my-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/my-portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/my-portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/my-portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/my-portfolio/index.html",
-    "main.6546107d.css.map": "/my-portfolio/static/css/main.6546107d.css.map",
-    "main.2362b8b7.js.map": "/my-portfolio/static/js/main.2362b8b7.js.map"
+    "main.css": "/My-Portfolio/static/css/main.6546107d.css",
+    "main.js": "/My-Portfolio/static/js/main.b02b4e41.js",
+    "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/me.png": "/My-Portfolio/static/media/me.b10c99cf28376a9e34f2.png",
+    "static/media/portfolio5.png": "/My-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3f2559613c14ae633132.pdf",
+    "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.6546107d.css.map": "/My-Portfolio/static/css/main.6546107d.css.map",
+    "main.b02b4e41.js.map": "/My-Portfolio/static/js/main.b02b4e41.js.map"
   },
   "entrypoints": [
     "static/css/main.6546107d.css",
-    "static/js/main.2362b8b7.js"
+    "static/js/main.b02b4e41.js"
   ]
 }
